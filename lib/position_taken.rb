@@ -3,7 +3,5 @@
 def position_taken?(board, index)
   board[index] == " "
   board[0] == " "
-  board[index] != " "
-  board[0] != " "
 
 end
